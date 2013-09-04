@@ -167,7 +167,7 @@ lib/hw/sensorhubs.msm8960.so
 #lib/libmmmpod.so
 #lib/libmmstillomx.so
 #lib/liboemcamera.so
-#lib/libsecnativefeature.so
+lib/libsecnativefeature.so
 #lib/libvdis.so
 
 
