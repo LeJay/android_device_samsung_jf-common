@@ -169,7 +169,7 @@ lib/hw/sensorhubs.msm8960.so
 #lib/libmmstillomx.so
 #lib/liboemcamera.so
 lib/libsecnativefeature.so
-#lib/libvdis.so
+lib/libvdis.so
 
 
 # Wi-Fi
